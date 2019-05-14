@@ -14,22 +14,22 @@
     <string name="setup_complete_text">Настройка завершена</string>
     <string name="setup_complete_message_text">Настройка сервера Home Assistant успешно завершена. Вы можете использовать приложение для управления Home Assistant.</string>
     <string name="configure_text">Настроить</string>
-    <string name="connection_server_failed_splash">Ошибка соединения с сервером Home Assistant. Вы можете повторить попытку либо настроить сервер заново. Что вы хотите?</string>
+    <string name="connection_server_failed_splash">Ошибка соединения с сервером Home Assistant. Вы можете повторить попытку либо настроить сервер заново.</string>
     <string name="server_not_configured_text">Сервер не сконфигурирован</string>
-    <string name="server_not_configured_message_text">Сервер Home Assistant еще не сконфигурирован. Вы хотите сделать это?</string>
+    <string name="server_not_configured_message_text">Сервер Home Assistant еще не сконфигурирован. Вы хотите сделать это сейчас?</string>
     <string name="title_activity_dashboard">Панель управления</string>
     <string name="navigation_drawer_open">Открыть навигационную панель</string>
     <string name="navigation_drawer_close">Закрыть навигационную панель</string>
     <string name="action_settings">Настройки</string>
     <string name="location_enable_text">Включить местоположение</string>
     <string name="wifi_enable_text">Включить Wi-fi</string>
-    <string name="wifi_state_connected">СОЕДИНЕНО</string>
-    <string name="wifi_state_connecting">СОЕДИНЕНИЕ</string>
-    <string name="wifi_state_disconnected">ОТКЛЮЧЕНО</string>
-    <string name="wifi_state_disconnecting">ОТКЛЮЧЕНИЕ</string>
-    <string name="wifi_choose_message">Выберите свою домашнюю сеть Wi-Fi в которой запущен сервер Home Assistant. Это будет использоваться в будущем для определения подключения к домашней сети. Проведите пальцем вниз для обновления списка Wi-Fi сетей если вы не видите свою сеть.</string>
+    <string name="wifi_state_connected">Соединено</string>
+    <string name="wifi_state_connecting">Соединение</string>
+    <string name="wifi_state_disconnected">Отключено</string>
+    <string name="wifi_state_disconnecting">Отключение</string>
+    <string name="wifi_choose_message">Выберите свою домашнюю сеть Wi-Fi в которой запущен сервер Home Assistant. В дальнейшем это будет использоваться для определения подключения к домашней сети. Проведите пальцем вниз для обновления списка Wi-Fi сетей если вы не видите свою сеть.</string>
     <string name="searching_wifi_networks">Поиск Wi-Fi сетей…</string>
-    <string name="home_text">ДОМ</string>
+    <string name="home_text">Дом</string>
 
     <string name="button_scene_activate">Активировать</string>
     <string name="climate_current_temperature" formatted="true">Текущая: %1$.1f %2$s</string>
@@ -47,7 +47,7 @@
     <string name="logbook_text">Журнал событий</string>
     <string name="configure_external_text">Настроить внешний</string>
     <string name="rate_app_text">Оценить приложение</string>
-    <string name="enter_external_ip">Введите внешний IP / URL адрес для Home Assistant и порт</string>
+    <string name="enter_external_ip">Введите внешний IP / URL адрес и порт для Home Assistant.</string>
     <string name="ip_url_text">IP / URL и порт</string>
     <string name="external_access_text">Внешний доступ</string>
     <string name="external_access_message">Для продолжения настройки внешнего доступа к серверу Home Assistant пожалуйста отключитесь от домашней сети Wi-Fi(например используйте: 3G / 4G / и другие сети). Обратите внимание, что для работы сервер Home Assistant должен быть доступен из внешних сетей, проверьте настройки своего роутера либо сначала узнайте, как это сделать.</string>
@@ -109,7 +109,7 @@
     <string name="get_pro_version_text">Получить версию PRO</string>
     <string name="choose_text_size">Выберите размер текста</string>
     <string name="choose_text">Выбрать</string>
-    <string name="trigger_text">ЗАПУСК</string>
+    <string name="trigger_text">Запуск</string>
     <string name="debug_mode_activated">Режим отладки включен</string>
     <string name="debug_mode_deactivated">Режим отладки выключен</string>
     <string name="debug_mode_failed">Ошибка при включении режима отладки</string>
