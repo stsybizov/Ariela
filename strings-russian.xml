@@ -578,5 +578,5 @@
     <string name="mqtt_sensor_notification_grabber">Сборщик уведомлений</string>
     <string name="mqtt_sensor_notification_grabber_message">Отправка уведомлений из других приложений в Home Assistant.</string>
     <string name="permission_text">Требуются разрешения</string>
-    <string name="notification_grabber_permission_required">Для работы данной функции, вам необходимо предоставить разрешения Ariela на доступ к уведомлениям в других приложениях. Вы хотите продолжить?</string>
+    <string name="notification_grabber_permission_required">Для работы данной функции, вам необходимо предоставить разрешения Ariela на доступ к уведомлениям в других приложениях. Продолжить?</string>
 </resources>
